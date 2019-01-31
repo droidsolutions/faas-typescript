@@ -7,9 +7,6 @@
     ]
   },
   "rules": {
-    "jsx-no-bind": false,
-    "jsx-no-lambda": false,
-    "jsx-boolean-value": [true, "never"],
     "member-ordering": false,
     "no-console": false,
     "object-literal-sort-keys": false
