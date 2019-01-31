@@ -4,7 +4,7 @@
   "author": "Mathias Vonende <mathias.vonende@droidsolutions.de>",
   "description": "A simple integration of typescript / nodejs as openfaas handler, containerized as docker image.",
   "main": "dist/handler.js",
-    "keywords": ["faas", "openfaas", "kubernetes", "typescript", "nodejs", "node"]
+  "keywords": ["faas", "openfaas", "kubernetes", "typescript", "nodejs", "node"],
   "files": [
     "dist/*"
   ],
