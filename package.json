@@ -5,9 +5,6 @@
   "description": "A simple integration of typescript / nodejs as openfaas handler, containerized as docker image.",
   "main": "dist/handler.js",
   "keywords": ["faas", "openfaas", "kubernetes", "typescript", "nodejs", "node"],
-  "files": [
-    "dist/*"
-  ],
   "license": "MIT",
   "dependencies": {
     "get-stdin": "^5.0.1",
