@@ -19,7 +19,7 @@
     "prettier": "^1.16.3",
     "tslint": "^5.12.1",
     "tslint-config-prettier": "^1.17.0",
-    "tslint-react": "^3.6.0",
+    "tslint-react": "^4.2.0",
     "typescript": "3.2.4"
   },
   "scripts": {
