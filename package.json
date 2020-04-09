@@ -9,7 +9,7 @@
   "dependencies": {
     "get-stdin": "^5.0.1",
     "@types/node": "10.12.19",
-    "@types/get-stdin": "^5.0.1"
+    "@types/get-stdin": "^7.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^7.4.0",
