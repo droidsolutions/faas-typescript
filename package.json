@@ -7,7 +7,7 @@
   "keywords": ["faas", "openfaas", "kubernetes", "typescript", "nodejs", "node"],
   "license": "MIT",
   "dependencies": {
-    "get-stdin": "^5.0.1",
+    "get-stdin": "^9.0.0",
     "@types/node": "10.12.19",
     "@types/get-stdin": "^5.0.1"
   },
